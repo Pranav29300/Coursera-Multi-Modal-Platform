@@ -38,3 +38,9 @@ coursera-mip/
 ├── database/   # Multimodal extraction, ingestion pipelines, and Supabase SQL
 └── frontend/   # Next.js web application, diagnostic dashboard, and chat interface
 ```
+
+## Project deliverables 
+Video Explanation Link : 
+
+
+
