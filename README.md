@@ -40,7 +40,8 @@ coursera-mip/
 ```
 
 ## Project deliverables 
-Video Explanation Link : 
+Video Explanation Link : https://drive.google.com/file/d/1yHwkso_ooY_JaSAgwe71smM2xuPl0TAT/view?usp=drive_link
+Project Link : https://coursera-mip.vercel.app/dashboard
 
 
 
